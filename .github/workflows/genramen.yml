@@ -6,7 +6,7 @@ on:
       - master
   workflow_dispatch:
   schedule:
-    - cron: '*/3 * * * *'
+    - cron: '0 */2 * * *'
 
 jobs:
   build:
@@ -32,5 +32,5 @@ jobs:
           git config --global user.email "xeusteerapat@users.noreply.github.com"
           git config --global user.name "Teerapat Prommarak"
           git add .
-          git commit -am "Update Ramen"
+          git commit -am "🍜 Update Ramen"
           git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
