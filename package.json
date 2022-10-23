@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "watch": "node --watch index.js --experimental-fetch",
-    "start": "node index.js --trace-warnings"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
