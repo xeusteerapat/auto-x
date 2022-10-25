@@ -1,9 +1,9 @@
 
   <h1>Hi 👋 Wanna try some ramen?</h1>
 
-  ## 🍜 homemade-ramen-muginae
+  ## 🍜 takahashi-oofuna
 
-  <img src=https://ramen-api.dev/images/homemade-ramen-muginae/homemade-ramen-muginae-001.jpg alt="homemade-ramen-muginae" width="500" height="auto"/>
+  <img src=https://ramen-api.dev/images/takahashi-oofuna/takahashi-oofuna-001.jpg alt="takahashi-oofuna" width="500" height="auto"/>
 
   credit: [Ramen API](https://github.com/yusukebe/ramen-api)
   
