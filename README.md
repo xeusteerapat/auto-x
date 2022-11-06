@@ -1,9 +1,9 @@
 
   <h1>Hi 👋 Wanna try some ramen?</h1>
 
-  ## 🍜 rasuta
+  ## 🍜 rajuku
 
-  <img src=https://ramen-api.dev/images/rasuta/rasuta-001.jpg alt="rasuta" width="500" height="auto"/>
+  <img src=https://ramen-api.dev/images/rajuku/rajuku-001.jpg alt="rajuku" width="500" height="auto"/>
 
   credit: [Ramen API](https://github.com/yusukebe/ramen-api)
   
