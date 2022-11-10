@@ -1,9 +1,9 @@
 
   <h1>Hi 👋 Wanna try some ramen?</h1>
 
-  ## 🍜 ichiran
+  ## 🍜 hanada
 
-  <img src=https://ramen-api.dev/images/ichiran/ichiran-001.jpg alt="ichiran" width="500" height="auto"/>
+  <img src=https://ramen-api.dev/images/hanada/hanada-001.jpg alt="hanada" width="500" height="auto"/>
 
   credit: [Ramen API](https://github.com/yusukebe/ramen-api)
   
