@@ -1,9 +1,9 @@
 
   <h1>Hi 👋 Wanna try some ramen?</h1>
 
-  ## 🍜 dontokoiya
+  ## 🍜 iraka
 
-  <img src=https://ramen-api.dev/images/dontokoiya/dontokoiya-001.jpg alt="dontokoiya" width="500" height="auto"/>
+  <img src=https://ramen-api.dev/images/iraka/iraka-001.jpg alt="iraka" width="500" height="auto"/>
 
   credit: [Ramen API](https://github.com/yusukebe/ramen-api)
   
