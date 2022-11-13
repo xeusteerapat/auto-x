@@ -1,9 +1,9 @@
 
   <h1>Hi 👋 Wanna try some ramen?</h1>
 
-  ## 🍜 nagi-bekkan
+  ## 🍜 dontokoiya
 
-  <img src=https://ramen-api.dev/images/nagi-bekkan/nagi-bekkan-001.jpg alt="nagi-bekkan" width="500" height="auto"/>
+  <img src=https://ramen-api.dev/images/dontokoiya/dontokoiya-001.jpg alt="dontokoiya" width="500" height="auto"/>
 
   credit: [Ramen API](https://github.com/yusukebe/ramen-api)
   
