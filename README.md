@@ -1,9 +1,9 @@
 
   <h1>Hi 👋 Wanna try some ramen?</h1>
 
-  ## 🍜 jyoujyouya
+  ## 🍜 yoshimuraya
 
-  <img src=https://ramen-api.dev/images/jyoujyouya/jyoujyouya-001.jpg alt="jyoujyouya" width="500" height="auto"/>
+  <img src=https://ramen-api.dev/images/yoshimuraya/yoshimuraya-001.jpg alt="yoshimuraya" width="500" height="auto"/>
 
   credit: [Ramen API](https://github.com/yusukebe/ramen-api)
   
