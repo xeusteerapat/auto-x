@@ -1,9 +1,9 @@
 
   <h1>Hi 👋 Wanna try some ramen?</h1>
 
-  ## 🍜 jiro-meguro
+  ## 🍜 hamaboshi
 
-  <img src=https://ramen-api.dev/images/jiro-meguro/jiro-meguro-001.jpg alt="jiro-meguro" width="500" height="auto"/>
+  <img src=https://ramen-api.dev/images/hamaboshi/hamaboshi-001.jpg alt="hamaboshi" width="500" height="auto"/>
 
   credit: [Ramen API](https://github.com/yusukebe/ramen-api)
   
