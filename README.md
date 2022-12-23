@@ -1,9 +1,9 @@
 
   <h1>Hi 👋 Wanna try some ramen?</h1>
 
-  ## 🍜 rokkakuya-totsuka
+  ## 🍜 rajuku
 
-  <img src=https://ramen-api.dev/images/rokkakuya-totsuka/rokkakuya-totsuka-001.jpg alt="rokkakuya-totsuka" width="500" height="auto"/>
+  <img src=https://ramen-api.dev/images/rajuku/rajuku-001.jpg alt="rajuku" width="500" height="auto"/>
 
   credit: [Ramen API](https://github.com/yusukebe/ramen-api)
   
